@@ -33,18 +33,18 @@ header{
     background: transparent;
     transition: all ease .45s;
 }
-
+                
 .logo{
     color: var(--text-color);
     font-size: 41px;
     font-weight: 600;
 }
-
+                  
 .logo span{
     color: var(--main-color);
 }
 
-.navbar{
+.navbar{              
     display: flex;  
 }
     
@@ -63,7 +63,7 @@ header{
 .navbar a.active{
     color: var(--main-color);    
     }
-        
+                      
 .menu-btn{       
     background: Linear-gradient(130.08deg, #383528 0%, #191919 100%);   
     box-shadow: 0px 20px 40px #00000070;
