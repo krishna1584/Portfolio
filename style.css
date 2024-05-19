@@ -13,7 +13,7 @@
     --big-font: 7rem;
     --p-font: 1.1rem;
 }
-
+                                              
 body{
     background: var(--bg-color);
     color: var(--text-color);
